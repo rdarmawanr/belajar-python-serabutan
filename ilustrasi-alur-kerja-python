@@ -1,5 +1,11 @@
 Python adalah bahasa pemrograman yang interpreted.
--> alur :
+-> alur interpreter :
     -- Sourcode = main.py (nama file kamu, yang berisikan kode sintaks pemrograman)
     -- Interpreter/penerjemah = Python
     -- Terminal = Fungsi akhir / yang dijalankan
+
+-> alur compiler :
+    -- Source code = main.py (nama file kamu, yang berisikan kode sintaks pemrograman lain : misalnya C++)
+    -- Compiled = C++
+    -- Executable = ekstensi file menjadi .exe
+    -- Compiler to terminal / yang dijalankan
