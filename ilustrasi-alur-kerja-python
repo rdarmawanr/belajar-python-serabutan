@@ -1,0 +1,5 @@
+Python adalah bahasa pemrograman yang interpreted.
+-> alur :
+    -- Sourcode = main.py (nama file kamu, yang berisikan kode sintaks pemrograman)
+    -- Interpreter/penerjemah = Python
+    -- Terminal = Fungsi akhir / yang dijalankan
