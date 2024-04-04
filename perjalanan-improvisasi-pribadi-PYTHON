@@ -2,3 +2,10 @@ langkah awal dalam belajar python.
 - install aplikasi python.
 - install visual code editor.
 - menjalankan program python di dalam visual code editor
+  -- buka aplikasi Visual Studio Code.
+  -- Open New Folder
+    --> buat project di drive C \ users \ rdarm \ buat new folder didalamnya dengan nama folder bebas.
+    --> select folder tersebut, sebagai tempat pengerjaan file python.
+    --> maka kamu sampai atau kembali kedalam tampilan visual code editor dengan folder yang kamu beri nama tadi.
+  -- selanjutnya. Buat folder baru didalam tampilan viscode (ini sebagai folder opsional yang didalamnya kamu bisa membuat sebuah configurasi setingan khusus untuk pengerjaan project ini. Jadi, ini tidak wajib)
+  -- buat file baru dengan ekstension .py, nama file nya bebas. misalnya : rahmad.py
